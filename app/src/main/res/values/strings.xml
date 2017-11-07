@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All</string>
+    <string name="editor_delete_all_failed">Failed</string>
+    <string name="editor_delete_all_successful">Deleted</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete">Delete</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="unsaved_changes_dialog">Discard changes</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_activity_title_new_product">Add new product</string>
+    <string name="editor_activity_title_edit_product">Edit product</string>
+    <string name="editor_insert_order_failed">Error while saving</string>
+    <string name="editor_insert_order_successful">Order saved</string>
+    <string name="editor_update_order_failed">Error while updating</string>
+    <string name="editor_update_order_successful">Order updated</string>
+    <string name="editor_activity_title_edit_pet">Edit Product</string>
+    <string name="editor_activity_title_new_pet">New Product</string>
+    <string name="editor_delete_order_successful">Deleted</string>
+    <string name="editor_delete_order_failed">Error while deleting</string>
+    <string name="delete_dialog_msg">Delete order</string>
+</resources>
